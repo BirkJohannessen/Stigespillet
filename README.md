@@ -22,3 +22,7 @@ Men er du uheldig og kaster 6 tre ganger på rad vil du bli flyttet til rute 1 o
 Brettet vil ha ruter med + og - som representerer ruter som vil forflytte spilleren opp og ned.
 
 Skrevet av Birk Johannessen.
+
+
+Eksempel på utskrift i spillet:
+![alt text](https://github.com/BirkJohannessen/Stigespillet/blob/main/eksPrtScr.jpg?raw=true)
